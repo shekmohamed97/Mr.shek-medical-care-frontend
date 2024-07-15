@@ -1,8 +1,7 @@
-# React + Vite
+Hii this repository is Hospital Managment system frontend that's measn this the patient or user page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+frist you can to the login of this front end side .provide to the details and you can longin on your account . if can't user click the "Rigister Nov " button and then automaticaly goin on the User Rigister page .and you will fill the your persnol details .and you can log in on your account
 
-Currently, two official plugins are available:
+and then open the home page disclaimer the hospital biography and then. scroling to the down side providing the message part you can message to the directly doctors
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+then the main part of the user side is appointment part . that part is directly appointment to the doctors thats'll
